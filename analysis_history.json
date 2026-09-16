@@ -1,0 +1,450 @@
+[
+  {
+    "id": "bf9301f2-da96-4620-960e-8d6974a9c6fd",
+    "timestamp": "2026-09-16 20:46:02",
+    "file_name": "3_Aoom-R.wav",
+    "file_size_mb": 0.86,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "real",
+        "real_pct": 85.1,
+        "fake_pct": 14.9,
+        "confidence_pct": 85.1,
+        "duration_sec": 10.0,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "real",
+        "real_pct": 98.62,
+        "fake_pct": 1.38,
+        "confidence_pct": 98.62,
+        "duration_sec": 10.0,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "71c2b7a3-e08e-4022-a094-0071b335500c",
+    "timestamp": "2026-09-16 20:37:33",
+    "file_name": "1- M- F.mp3",
+    "file_size_mb": 0.02,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 12.92,
+        "fake_pct": 87.08,
+        "confidence_pct": 87.08,
+        "duration_sec": 1.87,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 20.61,
+        "fake_pct": 79.39,
+        "confidence_pct": 79.39,
+        "duration_sec": 1.87,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "4c689b25-7478-4ee1-9569-d153db996ae6",
+    "timestamp": "2026-08-31 23:29:17",
+    "file_name": "7-ARM-R.wav",
+    "file_size_mb": 0.96,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 20.41,
+        "fake_pct": 79.59,
+        "confidence_pct": 79.59,
+        "duration_sec": 10.0,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "real",
+        "real_pct": 61.52,
+        "fake_pct": 38.48,
+        "confidence_pct": 61.52,
+        "duration_sec": 10.0,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "3d8202b3-71ec-4b38-ba5a-a56fc05afbdf",
+    "timestamp": "2026-08-31 23:25:52",
+    "file_name": "1-9-shogong-A00m-fake.wav",
+    "file_size_mb": 1.0,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 0.01,
+        "fake_pct": 99.99,
+        "confidence_pct": 99.99,
+        "duration_sec": 10.0,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 3.55,
+        "fake_pct": 96.45,
+        "confidence_pct": 96.45,
+        "duration_sec": 10.0,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "4c13bbcf-961e-4e29-ba3f-eb5b90ed5af4",
+    "timestamp": "2026-08-26 19:12:01",
+    "file_name": "1- M- F.mp3",
+    "file_size_mb": 0.02,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 12.92,
+        "fake_pct": 87.08,
+        "confidence_pct": 87.08,
+        "duration_sec": 1.87,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 20.61,
+        "fake_pct": 79.39,
+        "confidence_pct": 79.39,
+        "duration_sec": 1.87,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "966d8e94-5c5f-4cdd-9e6a-172c3bf8ba90",
+    "timestamp": "2026-08-26 19:10:30",
+    "file_name": "1- M- F.mp3",
+    "file_size_mb": 0.02,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 12.92,
+        "fake_pct": 87.08,
+        "confidence_pct": 87.08,
+        "duration_sec": 1.87,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 20.61,
+        "fake_pct": 79.39,
+        "confidence_pct": 79.39,
+        "duration_sec": 1.87,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "ee2b329b-b171-4b08-b6c8-8c187150d8cf",
+    "timestamp": "2026-08-25 18:33:52",
+    "file_name": "nook.mp3",
+    "file_size_mb": 0.05,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 0.05,
+        "fake_pct": 99.95,
+        "confidence_pct": 99.95,
+        "duration_sec": 3.8,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 0.22,
+        "fake_pct": 99.78,
+        "confidence_pct": 99.78,
+        "duration_sec": 3.8,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "1630ed49-5959-482d-9b45-678b7733291d",
+    "timestamp": "2026-08-25 18:29:38",
+    "file_name": "nook test.mp3",
+    "file_size_mb": 0.01,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 6.76,
+        "fake_pct": 93.24,
+        "confidence_pct": 93.24,
+        "duration_sec": 2.02,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 15.97,
+        "fake_pct": 84.03,
+        "confidence_pct": 84.03,
+        "duration_sec": 2.02,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "e7ceaced-80cc-4729-833c-84802dad1688",
+    "timestamp": "2026-08-25 18:29:36",
+    "file_name": "nook test.mp3",
+    "file_size_mb": 0.01,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 6.76,
+        "fake_pct": 93.24,
+        "confidence_pct": 93.24,
+        "duration_sec": 2.02,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 15.97,
+        "fake_pct": 84.03,
+        "confidence_pct": 84.03,
+        "duration_sec": 2.02,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "6bae7eb7-773c-470b-b975-24ac04eefe00",
+    "timestamp": "2026-08-25 18:27:53",
+    "file_name": "test di nook.wav",
+    "file_size_mb": 0.42,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "real",
+        "real_pct": 82.47,
+        "fake_pct": 17.53,
+        "confidence_pct": 82.47,
+        "duration_sec": 6.9,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "real",
+        "real_pct": 99.84,
+        "fake_pct": 0.16,
+        "confidence_pct": 99.84,
+        "duration_sec": 6.9,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "48e3df6f-298d-45bd-9c92-7f321ae6410f",
+    "timestamp": "2026-08-25 18:27:46",
+    "file_name": "ลองๆ.mp3",
+    "file_size_mb": 0.02,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 13.18,
+        "fake_pct": 86.82,
+        "confidence_pct": 86.82,
+        "duration_sec": 1.96,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 29.73,
+        "fake_pct": 70.27,
+        "confidence_pct": 70.27,
+        "duration_sec": 1.96,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "c775bed4-b4a2-4bac-a48d-7f0c30998119",
+    "timestamp": "2026-08-25 18:23:20",
+    "file_name": "ลองๆ.mp3",
+    "file_size_mb": 0.02,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 13.18,
+        "fake_pct": 86.82,
+        "confidence_pct": 86.82,
+        "duration_sec": 1.96,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 29.73,
+        "fake_pct": 70.27,
+        "confidence_pct": 70.27,
+        "duration_sec": 1.96,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "297d0552-cc35-46f6-bf82-a3e9fd437a3d",
+    "timestamp": "2026-08-25 18:21:43",
+    "file_name": "test ka baby.wav",
+    "file_size_mb": 2.03,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "real",
+        "real_pct": 97.19,
+        "fake_pct": 2.81,
+        "confidence_pct": 97.19,
+        "duration_sec": 10.0,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "real",
+        "real_pct": 99.34,
+        "fake_pct": 0.66,
+        "confidence_pct": 99.34,
+        "duration_sec": 10.0,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "58804414-a101-4938-a067-4b729cf7f830",
+    "timestamp": "2026-08-25 18:16:27",
+    "file_name": "1-2-R.wav",
+    "file_size_mb": 2.03,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "real",
+        "real_pct": 94.21,
+        "fake_pct": 5.79,
+        "confidence_pct": 94.21,
+        "duration_sec": 10.0,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "real",
+        "real_pct": 91.5,
+        "fake_pct": 8.5,
+        "confidence_pct": 91.5,
+        "duration_sec": 10.0,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "3f04406d-d56c-4b58-852a-66c57d6c4461",
+    "timestamp": "2026-08-25 18:16:16",
+    "file_name": "1-2-F.mp3",
+    "file_size_mb": 0.02,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 9.08,
+        "fake_pct": 90.92,
+        "confidence_pct": 90.92,
+        "duration_sec": 1.61,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 8.36,
+        "fake_pct": 91.64,
+        "confidence_pct": 91.64,
+        "duration_sec": 1.61,
+        "segments": 1
+      }
+    ]
+  },
+  {
+    "id": "15af2483-0e5f-41a4-9d0b-4569f06c3f5c",
+    "timestamp": "2026-08-25 18:15:55",
+    "file_name": "แม่ค้า.mp3",
+    "file_size_mb": 0.33,
+    "models": [
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (แบ่งตามโฟลเดอร์เดิม)",
+        "label": "fake",
+        "real_pct": 0.0,
+        "fake_pct": 100.0,
+        "confidence_pct": 100.0,
+        "duration_sec": 10.0,
+        "segments": 1
+      },
+      {
+        "model_file": "LFCC-TrainTest_eng2.2+thai2.2_spkdisjoint.pt",
+        "model_name": "โมเดล — English 2.2 + Thai 2.2 (speaker-disjoint: train 4 คน / val 2 คน)",
+        "label": "fake",
+        "real_pct": 0.0,
+        "fake_pct": 100.0,
+        "confidence_pct": 100.0,
+        "duration_sec": 10.0,
+        "segments": 1
+      }
+    ]
+  }
+]
